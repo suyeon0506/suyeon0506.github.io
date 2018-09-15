@@ -16,9 +16,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Welcome to my (Dev) blog!</p>
-  header_text_feature_image: assets/img/pexels/desk-nerd.jpeg
+  header_text_feature_image: assets/boracay.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> / Customized by <a href="https://suyeon0506.github.io/about/">Suyeon Lee</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
