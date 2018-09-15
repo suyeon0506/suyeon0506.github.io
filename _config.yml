@@ -9,7 +9,7 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: Suyeon's Blog # blog's title
-  avatar: #assets/img/triangle.svg
+  avatar: assets/semicolon.png
   favicon: assets/semicolon.png
   gravatar: # Email MD5 hash
 
