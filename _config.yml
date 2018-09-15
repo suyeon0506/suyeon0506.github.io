@@ -18,7 +18,7 @@ theme_settings:
      <p>Welcome to my (Dev) blog!</p>
   header_text_feature_image: assets/boracay.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> / Customized by <a href="https://suyeon0506.github.io/about/">Suyeon Lee</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> / Customized by <a href="https://suyeon0506.github.io/about/">SUYEON LEE</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -48,14 +48,14 @@ theme_settings:
   # Sharing options
   share_buttons:
     facebook: true
-    twitter: true
+    twitter: #true
     google_plus: true
     tumblr:
     pinterest:
     pocket:
-    reddit: true
-    linkedin:
-    wordpress:
+    reddit: #true
+    linkedin: true
+    wordpress: true
     email: true
 
   # Scripts / Features 
