@@ -53,6 +53,7 @@
 .bootstrap-iso a:active,
 .bootstrap-iso a:hover {
   outline: 0;
+  color: tomato;
 }
 .bootstrap-iso abbr[title] {
   border-bottom: 1px dotted;
