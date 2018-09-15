@@ -9,14 +9,14 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: Suyeon's Blog # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: #assets/img/triangle.svg
   favicon: assets/semicolon.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Welcome to my (Dev) blog!</p>
-  header_text_feature_image: assets/img/pexels/LA_trees.jpg
+  header_text_feature_image: assets/img/pexels/desk-nerd.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
