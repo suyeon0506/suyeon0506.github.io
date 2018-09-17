@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coding
-<!--img: "assets/img/portfolio/ninja.png"-->
+img: "assets/img/portfolio/ninja.png"
 date: September, 17 2018
 tags: [Code, Coding]
 ---
