@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/boracay.jpg"
+feature-img: "assets/img/travel/boracay.jpg"
 tags: [About]
 ---
 
@@ -17,4 +17,4 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
 Wannabe a good developer<br>
 Taveling around the world<br><br>
 
-Now in Lisboa<br><br><br><br>
+Now in Lisboa, 2018<br><br><br><br>

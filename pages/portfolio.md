@@ -3,7 +3,7 @@ layout: page
 title : Category 
 permalink: /category/
 subtitle: "Projects I am working on" 
-feature-img: "assets/boracay.jpg"
+feature-img: "assets/img/travel/boracay.jpg"
 tags: [Category]
 ---
 

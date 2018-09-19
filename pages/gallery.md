@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Photo
-subtitle: My travle photos
+subtitle: My travel photos
 permalink: /photo/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/travel"
 tags: [Photo]
 ---
 
