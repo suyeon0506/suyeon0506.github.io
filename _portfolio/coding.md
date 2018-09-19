@@ -13,10 +13,12 @@ Use this area of the page to describe your project. The icon above is part of a 
 ***Algorithm***
 
 1. Dynamic Programming
-2. Greedy Algorithm<br>
+2. Greedy Algorithm
+<br><br>
 
 ***Data Science***
 
 1. Machine Learning
 2. Deep Learning
-3. Kaggle<br>
+3. Kaggle
+<br><br>

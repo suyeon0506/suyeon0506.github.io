@@ -15,4 +15,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 1. 교환학생 신청
 2. 교환학생 준비 - 비자
-3. 교환학생 준비 - 수강신청<br>
+3. 교환학생 준비 - 수강신청
+<br><br>
