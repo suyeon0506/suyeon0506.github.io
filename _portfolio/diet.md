@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diet
-img: "assets/img/cartegory/cartegory_diet.jpg"
+img: "assets/img/category/category_diet.jpg"
 date: 2019-09-19
 tags: [Diet]
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Side Project
-feature-img: "assets/img/cartegory/cartegory_sideproject.jpg"
-img: "assets/img/cartegory/cartegory_sideproject.jpg"
+feature-img: "assets/img/category/category_sideproject.jpg"
+img: "assets/img/category/category_sideproject.jpg"
 date: 2018-09-19
 tags: [Side Project]
 ---
