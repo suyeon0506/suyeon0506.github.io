@@ -13,8 +13,8 @@ Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.-->
 
  
-###  Suyeon Lee
-Sogang University, Seoul, Korea
-
-coding (**링크걸기**)
-이런식으로..
+## <center/> Suyeon Lee </center>
+<center/>Sogang University, studying CS
+Wannabe good developer
+Taveling around the wordl
+Now in Lisbon</center>
