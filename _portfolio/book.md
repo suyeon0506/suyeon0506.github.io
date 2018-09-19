@@ -2,7 +2,7 @@
 layout: post
 title: Book
 feature-img: "assets/img/category/category_book.jpg"
-img: "assets/img/portfolio//category_book.jpg"
+img: "assets/img/category/category_book.jpg"
 date: 2018-09-19
 tags: [Book]
 ---
