@@ -18,5 +18,5 @@ Use this area of the page to describe your project. The icon above is part of a 
 이모, 할머니 용돈 : +40<br>
 포르투갈 환전 : -60<br>
 생활 지출 : -50<br><br>
-<b>NOW : +330</b>
+***NOW : +330***
 
