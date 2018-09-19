@@ -18,4 +18,4 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
 Wannabe a good developer<br>
 돈 많이 벌고 싶다<br><br><br>
 <b>Was in San Francisco, 2018 Summer<br>
-<b>Now in Lisboa, 2018 Autumn<br><br><br><br>
+<b>Now in Lisboa, 2018 Autumn<br><br>
