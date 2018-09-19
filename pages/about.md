@@ -14,7 +14,9 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
 
 ## <center>Suyeon Lee
 <center> Sogang University, studying CS<br>
+서강대학교에서 컴퓨터 공부 중<br><br>
 Wannabe a good developer<br>
-Taveling around the world<br><br>
-
+돈 많이 벌고 싶다<br><br>
+Taveling around the world<br>
+여행, 책, 노래, 코딩<br><br>
 Now in Lisboa, 2018<br><br><br><br>
