@@ -12,9 +12,8 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 ***Algorithm***
 
-1.
-2.
-3.
+1. Dynamic Programming
+2. Greedy Algorithm
 
 ***Data Science***
 
