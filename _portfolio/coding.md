@@ -12,7 +12,7 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 ***Github***
 
-- <a href = "">내 문서와 깃허브 repository 연결하기</a>
+- <a href = "https://suyeon0506.github.io/2018/09/29/%EB%82%B4-%EB%AC%B8%EC%84%9C%EC%99%80-%EA%B9%83%ED%97%88%EB%B8%8C-repository-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.html">내 문서와 깃허브 repository 연결하기</a>
 <br><br>
 
 ***Algorithm***
