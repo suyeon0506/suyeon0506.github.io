@@ -12,7 +12,7 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 ***(개발)블로그 개설***
 
-1. 블로그 시작기 <a href = "https://suyeon0506.github.io/2018/09/29/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%EA%B8%B0.html">-></a>
+1. <a href = "https://suyeon0506.github.io/2018/09/29/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%EA%B8%B0.html">블로그 시작기</a>
 2. 깃허브 블로그 커스마이즈
 <br><br>
 
