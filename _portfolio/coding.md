@@ -17,8 +17,8 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 ***Algorithm***
 
-1. Dynamic Programming
-2. Greedy Algorithm
+1. <a href = "https://suyeon0506.github.io/2018/10/07/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A0%ED%98%95%ED%83%90%EC%83%89.html">선형탐색 - lower bound & upper bound</a>
+2. 비선형탐색
 <br><br>
 
 ***Data Science***
