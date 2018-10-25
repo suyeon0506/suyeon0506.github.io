@@ -21,5 +21,10 @@ Use this area of the page to describe your project. The icon above is part of a 
 포르투갈 환전 : -60<br>
 생활 지출 : -50<br><br>
 ***NOW : +330***
+
+update)181023
+이수환 돈 넣음 : +50
+이수환 셤기간 용돈 : -10
+NOW : 370
 <br><br>-->
 
