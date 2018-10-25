@@ -9,8 +9,8 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: Suyeon's Blog # blog's title
-  avatar: assets/xx_imoji.jpg
-  favicon: assets/xx_imoji.jpg
+  avatar: assets/xx_imoji.png
+  favicon: assets/xx_imoji.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
