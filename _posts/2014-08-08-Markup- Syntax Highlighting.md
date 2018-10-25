@@ -2,7 +2,7 @@
 layout: post
 title: "Markup: Syntax Highlighting"
 tags: [code]
-published: false
+<!--published: false-->
 ---
 
 From Michael's Rose [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting).
